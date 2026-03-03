@@ -14,10 +14,10 @@ To explore and analyze the Google Play Store dataset through data cleaning, cate
 
 ## Technical Approach
 - Data Cleaning: Removing duplicates and handling missing values.
-Data Formatting: Adjusting column data types to enable accurate analysis.
-Data Preparation: Standardizing column names and cleaning and organizing the dataset.
-Exploratory Analysis: Grouping and aggregating data to identify patterns across categories.
-Visualization: Creating charts to show category performance and price distribution
+- Data Formatting: Adjusting column data types to enable accurate analysis.
+- Data Preparation: Standardizing column names and cleaning and organizing the dataset.
+- Exploratory Analysis: Grouping and aggregating data to identify patterns across categories.
+- Visualization: Creating charts to show category performance and price distribution
 
 ## Dataset
 10,841 raw records refined to 8,196 clean observations.
