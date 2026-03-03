@@ -20,8 +20,8 @@ To explore and analyze the Google Play Store dataset through data cleaning, cate
 - Visualization: Creating charts to show category performance and price distribution
 
 ## Dataset
-Source: Kaggle – Google Play Store Apps
-10,841 raw records refined to 8,196 clean observations.
+- Source: Kaggle – Google Play Store Apps
+- 10,841 raw records refined to 8,196 clean observations.
 
 ## Tools
 Python (Pandas, Seaborn, Matplotlib)
