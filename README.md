@@ -6,7 +6,7 @@ To explore and analyze the Google Play Store dataset through data cleaning, cate
 ## Key Insights
 
 - The Family category has the highest number of apps, while the Game category leads in total installs.
-- Free applications significantly outnumber paid apps across major categories.
+- Free apps clearly outnumber paid apps across major categories.
 - Most paid apps are priced between $1 and $5.
 - Gaming, Communication, and Tools generate the highest total install volumes.
 - Apps priced above $50 are rare within the dataset.
@@ -20,6 +20,7 @@ To explore and analyze the Google Play Store dataset through data cleaning, cate
 - Visualization: Creating charts to show category performance and price distribution
 
 ## Dataset
+Source: Kaggle – Google Play Store Apps
 10,841 raw records refined to 8,196 clean observations.
 
 ## Tools
